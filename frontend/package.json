@@ -19,7 +19,7 @@
     "bulma": "0.9.4",
     "debounce": "^1.2.0",
     "robust-websocket": "^1.0.0",
-    "typed.js": "^2.0.11",
+    "typed.js": "2.0.12",
     "v-tooltip": "^2.0.3",
     "vue": "2.7.13",
     "vue-json-tree": "0.4.3",
