@@ -23,7 +23,7 @@
     "v-tooltip": "^2.0.3",
     "vue": "2.7.13",
     "vue-json-tree": "0.4.3",
-    "vue-router": "^3.0.1",
+    "vue-router": "3.6.5",
     "vue-scrollto": "2.20.0"
   },
   "devDependencies": {
