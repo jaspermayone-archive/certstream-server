@@ -27,7 +27,7 @@ defmodule Certstream.Mixfile do
       {:easy_ssl, "~> 1.1"},
       {:honeybadger, "~> 0.14"},
       {:httpoison, "~> 1.7"},
-      {:instruments, "~> 1.1"},
+      {:instruments, "~> 2.0"},
       {:jason, "~> 1.2"},
       {:number, "~> 1.0"},
       {:pobox, "~> 1.2"},
