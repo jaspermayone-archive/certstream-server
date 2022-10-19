@@ -22,7 +22,7 @@
     "typed.js": "^2.0.11",
     "v-tooltip": "^2.0.3",
     "vue": "^2.5.2",
-    "vue-json-tree": "0.3.3",
+    "vue-json-tree": "0.4.3",
     "vue-router": "^3.0.1",
     "vue-scrollto": "2.20.0"
   },
