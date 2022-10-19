@@ -33,7 +33,7 @@ defmodule Certstream.Mixfile do
       {:pobox, "~> 1.2"},
 
       {:credo, "~> 1.4", only: [:dev, :test], runtime: false},
-      {:excoveralls, "~> 0.13", only: :test}
+      {:excoveralls, "~> 0.15", only: :test}
     ]
   end
 
