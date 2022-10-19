@@ -58,7 +58,7 @@
     "node-sass": "^7.0.3",
     "optimize-css-assets-webpack-plugin": "^6.0.1",
     "ora": "6.1.2",
-    "portfinder": "^1.0.13",
+    "portfinder": "1.0.32",
     "postcss-import": "^15.0.0",
     "postcss-loader": "^7.0.1",
     "postcss-url": "^10.1.3",
